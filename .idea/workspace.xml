@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a040b472-eeff-4979-acf2-597417da8e0c" name="Changes" comment="" />
+    <list default="true" id="a040b472-eeff-4979-acf2-597417da8e0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Make_my_trip_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/make_my_trip_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page_Actions_Make_my_trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_methods_make_my_trip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Make_My_Trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_make_my_trip.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
