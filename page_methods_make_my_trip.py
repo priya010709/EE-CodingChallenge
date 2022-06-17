@@ -1,6 +1,6 @@
 import time
-from Make_my_trip_Locators import MakeMyTripLocators
-from basePage import BasePage
+from make_my_trip_locators import MakeMyTripLocators
+from base_page import BasePage
 import pandas as pd
 from pprint import pprint
 

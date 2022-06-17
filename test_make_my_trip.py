@@ -1,5 +1,5 @@
 from test_base import BaseTest
-from Page_Actions_Make_my_trip import MakeMyTripPageFunctions
+from page_methods_make_my_trip import MakeMyTripPageFunctions
 
 
 class TestMakeMyTrip(BaseTest):
